@@ -1,0 +1,5 @@
+__pycache__/
+temp_plot.png
+temp_report_plot.png
+.virtualenv/
+*.pdf
