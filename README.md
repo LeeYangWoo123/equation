@@ -34,3 +34,21 @@
 
 ```bash
 pip install streamlit sympy numpy plotly fpdf kaleido
+
+실행 방법
+저장소를 클론하거나 코드를 내려받습니다.
+
+터미널에서 다음 명령어를 입력합니다:
+
+Bash
+streamlit run app.py
+또는 동봉된 run_analyzer.bat 파일을 더블 클릭하여 실행할 수 있습니다.
+
+📂 프로젝트 구조 (Project Structure)
+app.py: 메인 애플리케이션 소스 코드
+
+run_analyzer.bat: 윈도우용 원클릭 실행 배치 파일
+
+requirements.txt: 의존성 라이브러리 목록
+
+.gitignore: 불필요한 임시 파일 업로드 방지 설정
