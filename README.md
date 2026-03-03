@@ -34,6 +34,7 @@
 
 ```bash
 pip install streamlit sympy numpy plotly fpdf kaleido
+```
 
 실행 방법
 저장소를 클론하거나 코드를 내려받습니다.
